@@ -1,0 +1,17 @@
+<div class="container mt-3">
+        <form action="#">
+            <div class="mb-3 mt-3">
+            <label class="form-label">Gameranger or pLan name</label>
+            <input class="form-control" type="text" name="name" id="name"/>
+            </div>
+            <div class="mb-3 mt-3">
+            <label>Car</label>
+            <input class="form-control" type="text" name="car" id="car"/>
+            </div>
+            <div class="mb-3 mt-3">
+            <label>Secret key</label>
+            <input class="form-control" type="password" name="password" id="password"/>
+            <button type="submit" class="btn btn-primary">Check Suspision</button>
+            </div>
+        </form>
+    </div>
